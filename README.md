@@ -5,3 +5,4 @@ My personal educational endeavour into data analysis of a structured climate dat
 From the website of Food and Agriculture for the United Nations, "AQUASTAT is the FAO global information system on water resources and agricultural water management. It collects, analyses and provides free access to over 180 variables and indicators by country from 1960. AQUASTAT draws on national capacities and expertise with an emphasis on Africa, the Near East, countries of the former Soviet Union, Asia, and Latin America and the Caribbean."
 
 ## My Objectives
+
